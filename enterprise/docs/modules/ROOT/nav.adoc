@@ -5,7 +5,7 @@
 * xref:General Info/Support Integration.adoc[Support Integration]
 
 .Technical Documentation
-* xref:Technical Documentation/Public API[Public API]
+* Public API
 ** xref:Technical Documentation/Public API/Overview.adoc[Overview]
 ** xref:Technical Documentation/Public API/Security Extensions.adoc[Security Extensions]
 ** xref:Technical Documentation/Public API/Roles Permitted.adoc[Roles Permitted]
