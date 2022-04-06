@@ -3,11 +3,8 @@ site:
   start_page: docs::Overview.adoc
 content:
   sources:
-    - url: .
-      start_path: docs
-      branches: HEAD
     - url: https://github.com/AlanRoth/Test-Documentation.git
-      start_path: enterprise/docs
+      start_path: docs
       branches: [ main ]
 asciidoc:
   attributes:
